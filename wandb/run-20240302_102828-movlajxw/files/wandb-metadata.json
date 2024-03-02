@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2024-03-02T09:28:28.705540",
+    "startedAt": "2024-03-02T09:28:28.002835",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "ImageTransformers.ipynb",
+    "codePathLocal": "ImageTransformers.ipynb",
+    "root": "/Users/tylerklimas/Desktop/MovieSentiment/moviesentiment",
+    "git": {
+        "remote": "https://huggingface.co/detroitnatif/moviesentiment",
+        "commit": "2e440e68587cfe100e6e35a735e208a069a0e002"
+    },
+    "email": "tytydizzle124@gmail.com",
+    "host": "Tylers-MacBook-Pro-2.local",
+    "username": "tylerklimas",
+    "executable": "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2000,
+        "min": 2000,
+        "max": 2000
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000,
+            "min": 2000,
+            "max": 2000
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 211.49695587158203
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
