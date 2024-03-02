@@ -47,6 +47,30 @@ _wandb:
     - 1: train/global_step
       6:
       - 3
+    - 1: eval/loss
+      5: 1
+      6:
+      - 1
+    - 1: eval/accuracy
+      5: 1
+      6:
+      - 1
+    - 1: eval/runtime
+      5: 1
+      6:
+      - 1
+    - 1: eval/samples_per_second
+      5: 1
+      6:
+      - 1
+    - 1: eval/steps_per_second
+      5: 1
+      6:
+      - 1
+    - 1: train/epoch
+      5: 1
+      6:
+      - 1
 return_dict:
   desc: null
   value: true

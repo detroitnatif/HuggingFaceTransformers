@@ -1,2 +1,3 @@
 ***** eval metrics *****
   eval_accuracy = 0.8797
+  eval_loss     = 0.7296

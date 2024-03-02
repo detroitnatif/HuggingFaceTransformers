@@ -538,3 +538,272 @@
 2024-03-02 10:47:43,986 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
 2024-03-02 10:47:43,986 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
 2024-03-02 10:47:43,989 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:47:48,360 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:47:49,461 INFO    Thread-12 :95379 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/tylerklimas/Desktop/MovieSentiment/moviesentiment/wandb/run-20240302_102828-movlajxw/files/config.yaml
+2024-03-02 10:47:53,584 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:47:58,597 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:47:58,986 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:47:58,987 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:47:58,994 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:48:04,165 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:09,179 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:13,990 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:48:13,991 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:48:13,995 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:48:15,153 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:20,165 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:25,178 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:28,991 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:48:28,992 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:48:28,997 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:48:30,301 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:35,318 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:40,325 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:43,996 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:48:43,997 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:48:44,003 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:48:46,164 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:51,180 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:56,196 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:48:58,996 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:48:58,996 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:48:59,003 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:49:01,302 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:06,315 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:11,330 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:13,998 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:49:13,999 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:49:14,004 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:49:16,358 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:21,382 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:26,406 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:29,001 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:49:29,002 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:49:29,006 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:49:32,216 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:37,229 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:42,244 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:43,998 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:49:43,999 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:49:44,003 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:49:48,238 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:53,253 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:49:58,283 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 10:51:16,462 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 10:51:16,463 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-02 10:51:16,464 DEBUG   SenderThread:95379 [sender.py:send_request():409] send_request: stop_status
+2024-03-02 10:51:21,509 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 10:51:26,540 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 11:19:53,876 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 11:19:55,477 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 11:19:57,918 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /files/detroitnatif/huggingface/movlajxw/file_stream (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8e5850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 11:19:58,369 INFO    SenderThread:95379 [retry.py:__call__():172] Retry attempt failed:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fdc5f8eb400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8eb400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/wandb/sdk/internal/internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/wandb/sdk/lib/gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8eb400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2024-03-02 11:19:59,527 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 11:20:02,198 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /files/detroitnatif/huggingface/movlajxw/file_stream (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8e54f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 12:30:13,545 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:16,921 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:30:18,644 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /files/detroitnatif/huggingface/movlajxw/file_stream (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8e5fa0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 12:30:22,574 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:27,598 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:31,921 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:30:36,562 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /files/detroitnatif/huggingface/movlajxw/file_stream (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8eb5e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 12:30:37,615 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:42,624 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:46,926 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:30:52,640 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:30:57,654 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:01,926 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:31:07,676 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:12,691 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:12,783 WARNING FileStreamThread:95379 [file_stream.py:request_with_retry():668] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /files/detroitnatif/huggingface/movlajxw/file_stream (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc5f8eb190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')). func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fdc5f4d8700>>, timeout=180.0), args: ('https://api.wandb.ai/files/detroitnatif/huggingface/movlajxw/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2024-03-02 12:31:16,925 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:31:22,718 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:27,734 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:31,928 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:31:37,770 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:42,648 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:46,800 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:31:52,690 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:31:57,698 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:01,820 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:32:07,723 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:12,732 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:16,828 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:32:19,353 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:21,854 INFO    Thread-12 :95379 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/tylerklimas/Desktop/MovieSentiment/moviesentiment/wandb/run-20240302_102828-movlajxw/files/output.log
+2024-03-02 12:32:22,755 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:24,365 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:27,776 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:29,371 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:31,830 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:32:34,384 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:37,796 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:39,401 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:42,810 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:44,408 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:46,833 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:32:49,420 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:51,834 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:54,431 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:32:56,855 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:32:59,442 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:01,837 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:33:04,454 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:06,885 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:09,459 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:11,898 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:14,481 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:16,838 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:33:19,490 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:21,931 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:24,511 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:26,946 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:29,525 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:31,842 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:33:34,543 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:36,966 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:39,562 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:41,975 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:44,578 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:46,843 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:33:49,595 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:52,013 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:54,606 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:33:57,024 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:33:59,618 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:01,848 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:34:04,635 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:07,051 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:09,645 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:12,067 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:14,658 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:16,849 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:34:19,679 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:22,093 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:24,695 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:27,107 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:29,711 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:31,850 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:34:34,726 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:37,143 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:39,740 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:42,164 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:44,750 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:46,850 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:34:49,759 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:52,198 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:54,769 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:34:57,208 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:34:59,785 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:01,855 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:35:04,796 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:07,240 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:09,813 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:12,249 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:14,832 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:16,858 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:35:19,843 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:22,280 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:24,850 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:27,291 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:29,864 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:31,861 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:35:34,880 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:37,310 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:39,901 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:42,327 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:44,917 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:46,862 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:35:49,932 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:52,355 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:54,945 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:35:57,367 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:35:59,958 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:01,864 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:36:04,971 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:07,385 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:09,987 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:12,397 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:15,001 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:16,865 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:36:20,015 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:22,419 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:25,027 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:27,436 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:30,044 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:31,866 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:36:35,058 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:37,462 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:40,068 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:42,473 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:45,082 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:46,870 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:36:50,093 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:52,495 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:36:55,103 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:36:57,508 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:37:00,113 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:37:01,870 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-02 12:37:05,130 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:37:07,543 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:37:10,149 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:37:12,556 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: keepalive
+2024-03-02 12:37:15,165 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: status_report
+2024-03-02 12:37:16,876 DEBUG   HandlerThread:95379 [handler.py:handle_request():146] handle_request: internal_messages
