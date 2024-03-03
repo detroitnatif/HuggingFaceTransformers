@@ -35,6 +35,50 @@ Using a batch transform, this data will be processed by the image processor as i
 
 ## Creating Trainer Instance
 
+```
+from transformers import TrainingArguments
+from transformers import Trainer
+
+training_args = TrainingArguments(
+  output_dir="./vit-base-X-Ray",
+  per_device_train_batch_size=16,
+  evaluation_strategy="steps",
+  num_train_epochs=4,
+  fp16=False,
+  save_steps=100,
+  eval_steps=100,
+  logging_steps=10,
+  learning_rate=2e-4,
+  save_total_limit=2,
+  remove_unused_columns=False,
+  push_to_hub=False,
+  report_to='tensorboard',
+  load_best_model_at_end=True,
+)
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    data_collator=collate_fn,
+    compute_metrics=compute_metrics,
+    train_dataset=prepared_ds["train"],
+    eval_dataset=prepared_ds["validation"],
+    tokenizer=processsor,
+)
+
+***** eval metrics *****
+  epoch                   =        1.0
+  eval_accuracy           =     0.9734
+  eval_loss               =     0.0776
+  eval_runtime            = 0:00:24.77
+  eval_samples_per_second =     47.015
+  eval_steps_per_second   =      5.892
+
+```
+
+
+
+
+
 
 
 
