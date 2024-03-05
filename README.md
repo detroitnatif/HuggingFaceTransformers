@@ -64,7 +64,12 @@ trainer = Trainer(
     eval_dataset=prepared_ds["validation"],
     tokenizer=processsor,
 )
+```
 
+## Testing Results 
+
+
+```
 ***** eval metrics *****
   epoch                   =        1.0
   eval_accuracy           =     0.9734
